@@ -1,7 +1,6 @@
-package com.knowhow.configclient.service.impl;
+package com.knowhow.poc.ds.service.impl;
 
-import com.knowhow.configclient.SearchType;
-import com.knowhow.configclient.service.SearchService;
+import com.knowhow.poc.ds.service.SearchService;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Service;
 

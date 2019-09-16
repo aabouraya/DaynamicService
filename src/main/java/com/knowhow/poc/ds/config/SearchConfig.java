@@ -1,6 +1,6 @@
-package com.knowhow.configclient.config;
+package com.knowhow.poc.ds.config;
 
-import com.knowhow.configclient.service.SearchService;
+import com.knowhow.poc.ds.service.SearchService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;

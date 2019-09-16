@@ -1,4 +1,4 @@
-package com.knowhow.configclient.service;
+package com.knowhow.poc.ds.service;
 
 public interface AddressService {
 

@@ -1,4 +1,4 @@
-package com.knowhow.configclient;
+package com.knowhow.poc.ds;
 
 public enum SearchType {
      EGON("EGON"), OF("OF");
